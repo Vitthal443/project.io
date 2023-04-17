@@ -1,0 +1,1654 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#nav1{
+    background-color: #0693e3;
+    height: 70px;
+}
+#icon1{
+    font-size: 20px;
+    color: white;
+    margin-left: 150px;
+}
+#icon2{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+#icon3{
+    margin-left: 750px;
+    color: white;
+    font-size: 30px;
+    
+}
+#icon3 h6
+    {
+        font-style: normal;
+    width: 100px;    
+    position: relative;
+    top: -35px;
+    left: 1010px;
+}
+#icon3 p{
+    width: 150px;
+    position: relative;
+    top: -75px;
+    left: 1010px;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#icon4{
+    width: 100px;
+    position: relative;
+    top: -130px;
+    left: 1200px;
+    color: white;
+    font-size: 30px;
+}
+#icon4h6 {
+    width: 100px;
+    position: relative;
+    top: -168px;
+    left: 1235px;
+    color: white;
+}
+#icon4p {
+    color: white;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 100;
+    position: relative;
+    top: -195px;
+    left: 1240px;
+}
+
+
+#nav2{
+height: 80px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+#ul1{
+    margin-left: 550px;
+}
+#ul1 li{
+    
+    font-size: 15px;
+    margin-left: 25px;
+}
+#ul1 li a{
+    color: black;
+}
+#ulli25{
+    margin-left: 10px;
+}
+#ul1 button{
+    height: 35px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+#ul1 button:hover{
+    background-color: green;
+}
+#ul1 li a:hover{
+    color: blue;
+}
+#img1{
+    position: relative;
+    left: 150px;
+}
+#servicelink1{
+    position: relative;
+    top: -31px;
+    left: 0px;
+    color: rgb(112, 110, 110);
+    text-decoration: none;
+}
+#dropdownbutton{
+    margin-left: 50px;
+}
+#servicemenu{
+    position: relative;
+    left: 50px;
+}
+#div3{
+    height: 700px;
+    background-image: url(header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#div3 h1{
+    color: white;
+    width: 550px;
+    position: relative;
+    left: 150px;
+    top: 200px;
+}
+#div3 p{
+    color: white;
+    width: 700px;
+    font-size: 20px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+    font-weight: 600;
+}
+#button1{
+    position: relative;
+    top: 240px;
+    left: 150px;
+    border-radius: 30px;
+}
+#button2 {
+    position: relative;
+    top: 240px;
+    left: 220px;
+    border-radius: 30px;
+}
+#button1:hover{
+    background-color: green;
+}
+#button2:hover{
+    background-color: green;
+}
+
+#div4{
+    height: 500px;
+    background-color: white;
+}
+#divrow{
+    position: relative;
+    top: 50px;
+}
+#div41{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    border: 10px solid #007fff;
+    position: relative;
+    top: -60px;
+    left: 100px;
+    background-image: url(quality-1.webp);
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    background-position: 120px 40px;
+}
+#div42{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    border: 10px solid #007fff;
+    position: relative;
+    top: -460px;
+    left: 500px;
+    background-image: url(patent.webp);
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    background-position: 120px 40px;
+}
+#div43{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    border: 10px solid #007fff;
+    position: relative;
+    top: -860px;
+    left: 900px;
+    background-image: url(best.webp);
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    background-position: 120px 40px;
+}
+#div41 h4{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    color: #007fff;
+    font-weight: 800;
+}
+#div41 p{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+#div42 h4{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    color: #007fff;
+    font-weight: 800;
+}
+#div42 p{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}#div43 h4{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    color: #007fff;
+    font-weight: 800;
+}
+#div43 p{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+
+#div5{
+    height: 500px;
+    background-color: white;
+}
+
+#div51{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+}
+#div5h3 {
+    color: #007fff;
+    position: relative;
+    top: -40px;
+    left: 90px;
+}
+#div51 h1{
+    margin-left: 20px;
+    font-weight: 700;
+}
+#div51 p{
+    width: 80%;
+    font-size: 18px;
+    margin-left: 20px;
+}
+#div51 button{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#div51 button:hover{
+    background-color: green;
+}
+#div52{
+    position: relative;
+    top: -460px;
+    left: 700px;
+    width: 35%;
+    height: 450px;
+    background-color: white;
+    background-image: url(About-Scnd-img_07.jpg);
+    background-size: 100% 100%;
+    border: 5px solid white;
+}
+#img2{
+    width: 330px;
+    position: relative;
+    left: 150px;
+    top: 80px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+#div6{
+    height: 550px;
+    background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+    background-size: 100% 100%;
+}
+
+#div6 h1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 40px;
+}
+#div61 {
+    position: relative;
+    top: 95px;
+    left: 150px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div61 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+#img3{
+    width: 330px;
+    position: relative;
+    left: 550px;
+    top: -235px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+#div62 {
+    text-align: center;
+    position: relative;
+    top: -220px;
+    left: 550px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div62 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+
+#img4 {
+    width: 330px;
+    position: relative;
+    left: 960px;
+    top: -550px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+#div63 {
+    text-align: center;
+    position: relative;
+    top: -535px;
+    left: 960px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div63 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+
+#div7{
+    margin-top: 30px;
+    height: 100px;
+    text-align: center;
+}
+#div7 h3{
+    font-size: 30px;
+}
+#div7 h2{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+
+#div8{
+    height: 500px;
+    background-color: white;
+}
+
+#div81{
+    width: 300px;
+    height: 420px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    background-image: url(01.webp);
+    background-size: 60% 40%;
+    background-position: 60px 50px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#div81 h4{
+    position: relative;
+    top: 250px;
+}
+#div81 p{
+    position: relative;
+    top: 250px;
+}
+#img81{
+    position: relative;
+    top: -280px;
+    left: 270px;
+    width: 200px;
+}
+
+#div82{
+    width: 300px;
+    height: 420px;
+    background-color: white;
+    position: relative;
+    left: 480px;
+    top: -470px;
+    background-image: url(02.webp);
+    background-size: 60% 40%;
+    background-position: 60px 50px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#img82{
+   
+        position: relative;
+        width: 200px;
+        top: -775px;
+        left: 760px;
+    }
+
+#div82 h4{
+    position: relative;
+    top: 250px;
+}
+#div82 p{
+    position: relative;
+    top: 250px;
+}
+
+#div83{
+    width: 300px;
+    height: 420px;
+    background-color: white;
+    position: relative;
+    left: 960px;
+    top: -990px;
+    background-image: url(03.png);
+    background-size: 60% 40%;
+    background-position: 60px 50px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#div83 h4{
+    position: relative;
+    top: 250px;
+}
+#div83 p{
+    position: relative;
+    top: 250px;
+}
+#divrow{
+    position: relative;
+    top: 50px;
+}
+
+#div10{
+    height: 500px;
+    
+
+ 
+}
+
+#img_1{
+    display: block;
+    width: 100%;
+    height: 90%;
+
+
+}
+#div_102{
+    position: relative;
+    top: -495px;
+}
+#div_101{
+    text-align: center;
+    position: relative;
+    top: -450px;
+    width: 0;
+    height: 100%;
+    background-color: rgba(0,127,255,0.5);
+    transition:  0.5s ease;
+} 
+#text_1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    top: 250px;
+    left: -165px;
+    white-space: nowrap;
+    transform: translate(37%, -50%);
+}
+
+#div10:hover #div_101{
+    width: 100%;
+}
+#div10:hover #text_1{
+    
+}
+#div10:hover #div_102{
+    display: none;
+}
+#div_10:hover #div_101 h4{
+    display: flex;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#div15{
+    text-align: center;
+    margin-top: 50px;
+    height: 100px;
+    background-color: white;
+}
+
+#div15 a{
+    
+    font-size: 30px;
+    text-decoration: none;
+    color: #007fff;
+}
+#div16{
+    height: 500px;
+    background-color: antiquewhite;
+}
+
+#div161{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    background-image: url(img-01-1-540x5701-1.png);
+    background-size: 100% 100%;
+}
+
+#div162{
+    
+    position: relative;
+    left: 100px;
+    top: 150px;
+    width: 700px;
+    height: 450px;
+}
+#Div1621{
+    
+    position: relative;
+    top: 100px;
+}
+#div16211 {
+    color: black;
+    position: relative;
+    left: 0px;
+    top: -105px;
+}
+#div16211 p{
+    position: relative;
+    left: 170px;
+    top: -80px;
+    width: 400px;
+}
+#div16211 h3{
+    position: relative;
+    top: -70px;
+}
+#div1622 button{
+    position: relative;
+    top: -80px;
+    background-color: black;
+}
+
+
+
+#div17{
+    height: 430px;
+    background-color: white;
+    margin-top: 150px;
+    background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+    background-size: 100% 100%;
+}
+#div17 h2{
+    color: white;
+    width: 450px;
+    position: relative;
+    top: 80px;
+    left: 150px;
+}
+
+#div171{
+    width: 35%;
+    position: relative;
+    left: 700px;
+}
+#div171 label{
+    font-weight: 800;
+}
+
+#div18{
+    margin-top: 40px;
+    text-align: center;
+}
+
+#div19{
+    height: 500px;
+    background-color: white;
+}
+
+#div191 p {
+    text-align: center;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 220px;
+    height: 40px;
+    position: relative;
+    left: -110px;
+    top: -145px;
+    border-radius: 10px;
+}
+#div191{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    width: 350px;
+    border-radius: 10px;
+    height: 200px;
+    border: 2px solid #007fff;
+}
+
+#div192{
+    position: relative;
+    left: 500px;
+    top: -150px;
+    width: 350px;
+    border-radius: 10px;
+    height: 200px;
+    border: 2px solid #007fff; 
+}
+#div192 p{
+    position: relative;
+    top: -150px;
+    left: -105px;
+    text-align: center;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 220px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#div193{
+    position: relative;
+    top: -350px;
+    left: 905px;
+    width: 350px;
+    border-radius: 10px;
+    height: 200px;
+    border: 2px solid #007fff;  
+}
+#div193 p{
+    position: relative;
+    top: -145px;
+    left: -105px;
+    text-align: center;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 220px;
+    height: 40px;
+    border-radius: 10px; 
+}
+#div19 button{
+    position: relative;
+    top: -150px;
+    left: 600px;
+}
+
+
+#div20{
+    box-shadow: 0px 0px 2px 2px gainsboro;
+    width: 70%;
+    border: 2px solid rgb(233, 232, 232);
+    margin-top: 50px;
+    text-align: center;
+    height: 650px;
+    background-color: white;
+}
+#div20 p{
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+}
+#div20 h2{
+    position: relative;
+    top: 30px;
+}
+
+#label-1{
+    position: relative;
+    top: 50px;
+}
+#label-2{
+    position: relative;
+    top: 100px;
+}
+#label-3{
+    position: relative;
+    top: 150px;
+}
+#Textarea1{
+    position: relative;
+    top: 200px;
+}
+#div20 button{
+    border-radius: 20px;
+    font-size: 18px;
+    position: relative;
+    top: 250px;
+}
+
+
+#div1000{
+    border-bottom: 2px solid white;
+    background-color: #0e1010d7;
+    height: 250px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#div1011{
+    position: relative;
+    left: 150px;
+    top: 50px;
+    width: 120px;
+    height: 20px;
+    background-image: url(brandmark-design-5-copy-1.png);
+    background-size: 100% 100%;
+}
+
+#div1012{
+    position: relative;
+    left: 150px;
+    top: 70px;
+    width: 350px;
+    height: 145px;
+    color: white;
+}
+
+#ul1000 {
+    
+    width: 555px;
+    position: relative;
+    left: 620px;
+    top: -50px;
+}
+#ul1000 li{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 30px;
+    float: left;
+}
+#ul1000 li a{
+    
+    text-decoration: none;
+    color: white;
+}
+#ul1000 li a:hover{
+    color: #007fff;
+}
+#div1001{
+    width: 100%;
+    height: 50px;
+    background-color: #0e1010d7;
+    color: white;
+    text-align: center;
+   
+}
+
+
+
+
+
+@media only screen and (max-width: 767px){
+     
+    #nav1{
+        display: none;
+    }
+    #ul1{
+        width: 150px;
+        background-color: black;
+        margin-left: 120px;
+    }
+    #ul1 li a{
+        text-align: center;
+         color: white;
+    }
+    #ulli25{
+        position: relative;
+        top: -20px;
+    }
+    #navbarbutton {
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    #servicelink1{
+        position: relative;
+        left: 30px;
+    }
+    #servicemenu{
+        position: relative;
+        left: -50px;
+    }
+    #ul1 button{
+        position: relative;
+        left: -10px;
+        top: -6px;
+        font-size: 12px;
+        
+        width: 100px;
+    }
+    #ul2{
+        width: 250px;
+        margin-left: -50px;
+    }
+    #ul2 li{
+        color: rgb(9, 9, 9);
+        background-color: white;
+       
+    }
+    #ul2 li a{
+         color: black;
+    }
+    #img1{
+        position: relative;
+        left: 0px; 
+    }
+    #div3{
+        height: 350px;
+    }
+    #div3 h1 {
+        color: white;
+        width: 250px;
+        position: relative;
+        left: 5px;
+        top: 20px;
+    }
+    #div3 p {
+        color: white;
+        width: 260px;
+        font-size: 12px;
+        position: relative;
+        top: 35px;
+        left: 0px;
+    }
+    #button1 {
+        position: relative;
+        top: 40px;
+        left: 0px;
+    }
+    #button2 {
+        position: relative;
+        top: 40px;
+        left: 0px;
+    }
+    #servicelink{
+        position: relative;
+        left: 40px;
+        
+    }
+    
+    #div4 {
+        height: 1280px;
+        background-color: white;
+    }
+    #div41 {
+        width: 90%;
+        height: 400px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: -20px;
+        left: 0px;
+        background-image: url(quality-1.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 120px 40px;
+    }
+    #div42 {
+        width: 90%;
+        height: 400px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: 20px;
+        left: 0px;
+        background-image: url(patent.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 120px 40px;
+    }
+    #div43 {
+        width: 90%;
+        height: 400px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: 40px;
+        left: 0px;
+        background-image: url(best.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 120px 40px;
+    }
+    #div5 {
+        height: 1000px;
+        background-color: white;
+    }
+    #div51 {
+        width: 95%;
+        height: 600px;
+        background-color: white;
+    }
+    #div5h3 {
+        color: #007fff;
+        position: relative;
+        top: -35px;
+        left: 75px;
+    }
+    #div51 h1 {
+        margin-top: -30px;
+        margin-left: 20px;
+        font-weight: 700;
+    }
+    #div51 p {
+        width: 80%;
+        font-size: 18px;
+        margin-left: 45px;
+    }
+    #div52 {
+        position: relative;
+        top: 21px;
+        left: 0px;
+        width: 90%;
+        height: 335px;
+        background-color: white;
+        background-image: url(About-Scnd-img_07.jpg);
+        background-size: 100% 100%;
+        border: 5px solid white;
+    }
+    #div5h3 {
+        color: #007fff;
+        position: relative;
+        top: -35px;
+        left: 75px;
+        width: 50px;
+    }
+    #img2 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 105px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div6{
+        height: 1375px;
+    }
+    #div61 {
+        text-align: center;
+        position: relative;
+        top: 120px;
+        left: 0px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #div62 {
+        text-align: center;
+        position: relative;
+        top: 250px;
+        left: 15px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img3 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 235px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #img4 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 325px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div63 {
+        text-align: center;
+        position: relative;
+        top: 335px;
+        left: 10px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+
+    #div8 {
+        height: 1350px;
+        background-color: white;
+    }
+    
+    
+    
+    #div81 {
+        width: 300px;
+        height: 400px;
+        background-color: white;
+        position: relative;
+        top: 25px;
+        left: 20px;
+        
+        background-image: url(01.webp);
+        background-size: 60% 40%;
+        background-position: 60px 50px;
+        background-repeat: no-repeat;
+    }
+    #img81{
+        display: none;
+    }
+    #img82{
+        display: none;
+    }
+    #div82 {
+        width: 300px;
+        height: 420px;
+        background-color: white;
+        position: relative;
+        left: 20px;
+        top: 60px;
+        background-image: url(02.webp);
+        background-size: 60% 40%;
+        background-position: 60px 50px;
+        background-repeat: no-repeat;
+        text-align: center;
+    }
+    #div83 {
+        width: 300px;
+        height: 420px;
+        background-color: white;
+        position: relative;
+        left: 20px;
+        top: 90px;
+        background-image: url(03.png);
+        background-size: 60% 40%;
+        background-position: 60px 50px;
+        background-repeat: no-repeat;
+        text-align: center;
+    }
+    #div15 {
+        text-align: center;
+        margin-top: 15px;
+        height: 100px;
+        background-color: white;
+    }
+    #div15 a {
+        position: relative;
+        top: 50px;
+        font-size: 30px;
+        text-decoration: none;
+        color: #007fff;
+    }
+    #div161 {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        width: 350px;
+        height: 400px;
+        background-color: white;
+        background-image: url(img-01-1-540x5701-1.png);
+        background-size: 100% 100%;
+    }
+    #div17 h2 {
+        color: white;
+        width: 340px;
+        position: relative;
+        top: 30px;
+        left: 0px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #div17 {
+        height: 460px;
+        background-color: white;
+        margin-top: 50px;
+        background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+        background-size: 100% 100%;
+    }
+    #div171 {
+        width: 85%;
+        position: relative;
+        left: 20px;
+        top: 70px;
+    }
+    #div19 {
+        height: 1150px;
+        background-color: white;
+    }
+    #div191 {
+        position: relative;
+        left: 0px;
+        top: 20px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+
+    #div192 {
+        position: relative;
+        left: 0px;
+        top: 150px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+    #div193 {
+        position: relative;
+        top: 350px;
+        left: 0px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+    #div19 button {
+        position: relative;
+        top: 490px;
+        left: 70px;
+    }
+
+    #div20 {
+        width: 90%;
+        margin-top: 90px;
+        text-align: center;
+        height: 670px;
+        background-color: white;
+    }
+    #div20 button {
+        position: relative;
+        top: 230px;
+    }
+
+    #div1011 {
+        position: relative;
+        left: 100px;
+        top: 30px;
+        width: 120px;
+        height: 20px;
+        background-image: url(brandmark-design-5-copy-1.png);
+        background-size: 100% 100%;
+    }
+    #div1000 {
+        background-color: #0e1010d7;
+        height: 450px;
+        width: 100%;
+        margin-top: 50px;
+    }
+    #div1012 {
+        position: relative;
+        left: 0px;
+        top: 70px;
+        width: 350px;
+        height: 145px;
+        color: white;
+    }
+    #ul1000 {
+        width: 190px;
+        position: relative;
+        left: 45px;
+        top: 90px;
+    }
+    #ul1000 li {
+        list-style-type: none;
+        font-size: 20px;
+        
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:767px) and (max-width:1023px) {
+
+    #nav1{
+        display: none;
+    }
+    
+    #ul1{
+        width: 200px;
+        background-color: black;
+        margin-left: 300px;
+    }
+    #ul1 li a{
+        text-align: center;
+         color: white;
+    }
+    #servicelink1{
+        position: relative;
+        left: 60px;
+    }
+    #servicemenu{
+        position: relative;
+        
+        left: -50px;
+    }
+    #ul1 button{
+        position: relative;
+        left: 25px;
+        top: -6px;
+        font-size: 12px;
+        
+        width: 100px;
+    }
+    #ulli25{
+        position: relative;
+        top: -20px;
+    }
+    
+    #ul2{
+        width: 250px;
+        margin-left: -50px;
+    }
+    #ul2 li{
+        color: rgb(9, 9, 9);
+        background-color: white;
+       
+    }
+    #ul2 li a{
+         color: black;
+    }
+    #img1{
+        position: relative;
+        left: 0px; 
+    }
+    #div3{
+        height: 400px;
+    }
+    #div3 h1 {
+        color: white;
+        width: 550px;
+        position: relative;
+        left: 85px;
+        top: 50px;
+    }
+    #div3 p {
+        color: white;
+        width: 700px;
+        font-size: 18px;
+        position: relative;
+        top: 55px;
+        left: 75px;
+    }
+    #button1 {
+        position: relative;
+        top: 70px;
+        left: 150px;
+    }
+    #button2 {
+        position: relative;
+        top: 70px;
+        left: 220px;
+    }
+
+
+    #div4 {
+        height: 380px;
+        background-color: white;
+    }
+    #div41 {
+        width: 245px;
+        height: 380px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: -60px;
+        left: -30px;
+        background-image: url(quality-1.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 90px 40px;
+    }
+    #div41 h4 {
+        text-align: center;
+        position: relative;
+        top: 130px;
+        color: #007fff;
+        font-weight: 800;
+    }
+    #div41 p {
+        text-align: center;
+        position: relative;
+        top: 150px;
+    }
+    #div42 {
+        width: 245px;
+        height: 373px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: -435px;
+        left: 230px;
+        background-image: url(patent.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 85px 40px;
+    }
+    #div42 h4 {
+        text-align: center;
+        position: relative;
+        top: 150px;
+        color: #007fff;
+        font-weight: 800;
+    }
+    #div42 p {
+        text-align: center;
+        position: relative;
+        top: 200px;
+    }
+
+    #div43 {
+        width: 245px;
+        height: 380px;
+        background-color: white;
+        border: 10px solid #007fff;
+        position: relative;
+        top: -815px;
+        left: 495px;
+        background-image: url(best.webp);
+        background-size: 20% 20%;
+        background-repeat: no-repeat;
+        background-position: 80px 40px;
+    }
+
+    #div43 h4 {
+        text-align: center;
+        position: relative;
+        top: 150px;
+        color: #007fff;
+        font-weight: 800;
+    }
+    #div43 p {
+        text-align: center;
+        position: relative;
+        top: 175px;
+    }
+    #div51 h1 {
+        margin-top: -40px;
+        margin-left: 20px;
+        font-weight: 700;
+        font-size: 25px;
+    }
+    #div51 button {
+        margin-left: 20px;
+        margin-top: 0px;
+    }
+
+    #div52 {
+        position: relative;
+        top: -460px;
+        left: 345px;
+        width: 55%;
+        height: 450px;
+        background-color: white;
+        background-image: url(About-Scnd-img_07.jpg);
+        background-size: 100% 100%;
+        border: 5px solid white;
+    }
+    #div6 {
+        height: 930px;
+        background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+        background-size: 100% 100%;
+    }
+    #img2 {
+        width: 330px;
+        position: relative;
+        left: 15px;
+        top: 80px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div61 {
+        position: relative;
+        top: 95px;
+        left: 30px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img3 {
+        width: 330px;
+        position: relative;
+        left: 420px;
+        top: -240px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div62 {
+        position: relative;
+        top: -220px;
+        left: 450px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img4 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: -115px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div63 {
+        text-align: center;
+        position: relative;
+        top: -85px;
+        left: 10px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    
+
+    #div8 {
+        height: 400px;
+        background-color: white;
+    }
+    #div81 {
+        width: 190px;
+        height: 330px;
+        background-color: white;
+        position: relative;
+        top: 50px;
+        background-image: url(01.webp);
+        background-size: 60% 40%;
+        background-position: 40px 50px;
+        background-repeat: no-repeat;
+    }
+    #img81 {
+        position: relative;
+        top: -185px;
+        left: 175px;
+        width: 100px;
+    }
+
+    #div81 p {
+        position: relative;
+        top: 195px;
+        font-size: 12px;
+    }
+    #div81 h4 {
+        position: relative;
+        top: 195px;
+    }
+
+    #div82 {
+        width: 190px;
+        height: 330px;
+        background-color: white;
+        position: relative;
+        left: 265px;
+        top: -330px;
+        background-image: url(02.webp);
+        background-size: 60% 40%;
+        background-position: 40px 50px;
+        background-repeat: no-repeat;
+        text-align: center;
+    }
+    #div82 h4 {
+        position: relative;
+        top: 195px;
+    }
+    #div82 p {
+        position: relative;
+        top: 195px;
+        font-size: 12px;
+    }
+    #img82 {
+        position: relative;
+        width: 100px;
+        top: -555px;
+        left: 445px;
+    }
+    #div83 {
+        width: 190px;
+        height: 330px;
+        background-color: white;
+        position: relative;
+        left: 535px;
+        top: -710px;
+        background-image: url(02.webp);
+        background-size: 60% 40%;
+        background-position: 40px 50px;
+        background-repeat: no-repeat;
+        text-align: center;
+    }
+    #div83 h4 {
+        position: relative;
+        top: 195px;
+    }
+    #div83 p {
+        position: relative;
+        top: 195px;
+        font-size: 12px;
+    }
+
+    #div16 {
+        height: 340px;
+        background-color: antiquewhite;
+    }
+    #div161 {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        width: 275px;
+        height: 290px;
+        background-color: white;
+        background-image: url(img-01-1-540x5701-1.png);
+        background-size: 100% 100%;
+    }
+
+    #div17 h2 {
+        color: white;
+        width: 450px;
+        position: relative;
+        top: 15px;
+        left: 150px;
+    }
+
+    #div17 {
+        height: 450px;
+        background-color: antiquewhite;
+        margin-top: 50px;
+        background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+        background-size: 100% 100%;
+    }
+    #div171 {
+        width: 35%;
+        position: relative;
+        left: 190px;
+        top: 40px;
+    }
+    #div19 {
+        height: 1180px;
+        background-color: white;
+    }
+    #div191 {
+        position: relative;
+        left: 170px;
+        top: 20px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+    #div192 {
+        position: relative;
+        left: 168px;
+        top: 150px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+
+    #div193 {
+        position: relative;
+        top: 350px;
+        left: 170px;
+        width: 350px;
+        border-radius: 10px;
+        height: 200px;
+        border: 2px solid #007fff;
+    }
+
+    #div19 button {
+        position: relative;
+        top: 530px;
+        left: 275px;
+    }
+
+    #div20 {
+        margin-top: 50px;
+        text-align: center;
+        height: 650px;
+        background-color: white;
+    }
+
+    #div1012 {
+        position: relative;
+        left: 150px;
+        top: 70px;
+        width: 350px;
+        height: 120px;
+        color: white;
+    }
+
+    #ul1000 {
+        width: 200px;
+        position: relative;
+        left: 525px;
+        top: -100px;
+    }
+
+    #ul1000 li {
+        list-style-type: none;
+        font-size: 20px;
+    }
+}

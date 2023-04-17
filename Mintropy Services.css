@@ -1,0 +1,697 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#nav1{
+    background-color: #0693e3;
+    height: 70px;
+}
+#icon1{
+    font-size: 20px;
+    color: white;
+    margin-left: 150px;
+}
+#icon2{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+#icon3{
+    margin-left: 750px;
+    color: white;
+    font-size: 30px;
+    
+}
+#icon3 h6
+    {
+        font-style: normal;
+    width: 100px;    
+    position: relative;
+    top: -35px;
+    left: 1010px;
+}
+#icon3 p{
+    width: 150px;
+    position: relative;
+    top: -75px;
+    left: 1010px;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#icon4{
+    width: 100px;
+    position: relative;
+    top: -130px;
+    left: 1200px;
+    color: white;
+    font-size: 30px;
+}
+#icon4h6 {
+    width: 100px;
+    position: relative;
+    top: -168px;
+    left: 1235px;
+    color: white;
+}
+#icon4p {
+    color: white;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 100;
+    position: relative;
+    top: -195px;
+    left: 1240px;
+}
+
+
+#nav2{
+height: 80px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+#ul1{
+    margin-left: 550px;
+}
+#ul1 li{
+    
+    font-size: 15px;
+    margin-left: 25px;
+}
+#ul1 li a{
+    color: black;
+}
+#ulli25{
+    margin-left: 10px;
+}
+#ul1 button{
+    height: 35px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+#ul1 button:hover{
+    background-color: green;
+}
+#ul1 li a:hover{
+    color: blue;
+}
+#img1{
+    position: relative;
+    left: 150px;
+}
+#servicelink1{
+    position: relative;
+    top: -38px;
+    left: -5px;
+    color: rgb(112, 110, 110);
+    text-decoration: none;
+}
+#dropdownbutton{
+    margin-left: 50px;
+}
+#servicemenu{
+    position: relative;
+    left: 50px;
+}
+
+#div3{
+    height: 280px;
+    background-image: url(537582.jpg);
+    background-size: 100% 100%;
+}
+#div3 h1{
+    font-size: 40px;
+    width: 500px;
+    padding-top: 50px;
+    margin-left: 150px;
+    color: white;
+}
+#div6{
+    height: 900px;
+    background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+    background-size: 100% 100%;
+}
+#img2{
+    width: 330px;
+    position: relative;
+    left: 150px;
+    top: 80px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+#div6 h1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 40px;
+}
+#div61 {
+    position: relative;
+    top: 95px;
+    left: 150px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div61 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+#img3{
+    width: 330px;
+    position: relative;
+    left: 550px;
+    top: -235px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+#div62 {
+    text-align: center;
+    position: relative;
+    top: -220px;
+    left: 550px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div62 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+
+#img4 {
+    width: 330px;
+    position: relative;
+    left: 960px;
+    top: -550px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+#div63 {
+    text-align: center;
+    position: relative;
+    top: -535px;
+    left: 960px;
+    width: 330px;
+    height: 150px;
+    color: white;
+}
+#div63 h3{
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+
+
+#div17{
+    height: 430px;
+    background-color: white;
+    margin-top: 0px;
+    background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+    background-size: 100% 100%;
+}
+#div17 h2{
+    color: white;
+    width: 450px;
+    position: relative;
+    top: 80px;
+    left: 150px;
+}
+
+#div171{
+    width: 35%;
+    position: relative;
+    left: 700px;
+}
+#div171 label{
+    font-weight: 800;
+}
+#div20{
+    box-shadow: 0px 0px 2px 2px gainsboro;
+    width: 70%;
+    border: 2px solid rgb(233, 232, 232);
+    margin-top: 50px;
+    text-align: center;
+    height: 650px;
+    background-color: white;
+}
+#div20 p{
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+}
+#div20 h2{
+    position: relative;
+    top: 30px;
+}
+
+#label-1{
+    position: relative;
+    top: 50px;
+}
+#label-2{
+    position: relative;
+    top: 100px;
+}
+#label-3{
+    position: relative;
+    top: 150px;
+}
+#Textarea1{
+    position: relative;
+    top: 200px;
+}
+#div20 button{
+    border-radius: 20px;
+    font-size: 18px;
+    position: relative;
+    top: 250px;
+}
+
+
+#div1000{
+    border-bottom: 2px solid white;
+    background-color: #0e1010d7;
+    height: 250px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#div1011{
+    position: relative;
+    left: 150px;
+    top: 50px;
+    width: 120px;
+    height: 20px;
+    background-image: url(brandmark-design-5-copy-1.png);
+    background-size: 100% 100%;
+}
+
+#div1012{
+    position: relative;
+    left: 150px;
+    top: 70px;
+    width: 350px;
+    height: 145px;
+    color: white;
+}
+
+#ul1000 {
+    
+    width: 555px;
+    position: relative;
+    left: 620px;
+    top: -50px;
+}
+#ul1000 li{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 30px;
+    float: left;
+}
+#ul1000 li a{
+    
+    text-decoration: none;
+    color: white;
+}
+#ul1000 li a:hover{
+    color: #007fff;
+}
+#div1001{
+    width: 100%;
+    height: 50px;
+    background-color: #0e1010d7;
+    color: white;
+    text-align: center;
+   
+}
+
+
+
+
+@media only screen and (max-width: 767px){
+     
+    #nav1{
+        display: none;
+    }
+    #ul1{
+        width: 150px;
+        background-color: black;
+        margin-left: 120px;
+    }
+    #ul1 li a{
+        text-align: center;
+         color: white;
+    }
+    
+    #ulli25{
+        position: relative;
+        top: -40px;
+    }
+    #navbarbutton {
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    #servicelink1{
+        position: relative;
+        left: 0px;
+    }
+    #servicemenu{
+        position: relative;
+        left: -50px;
+    }
+    #ul1 button{
+        position: relative;
+        left: -10px;
+        top: -20px;
+        font-size: 12px;
+        
+        width: 100px;
+    }
+    #ul2{
+        width: 250px;
+        margin-left: -50px;
+    }
+    #ul2 li{
+        color: rgb(9, 9, 9);
+        background-color: white;
+       
+    }
+    #ul2 li a{
+         color: black;
+    }
+    #img1{
+        position: relative;
+        left: 0px; 
+    }
+    #div3 {
+        height: 150px;
+        background-image: url(537582.jpg);
+        background-size: 100% 100%;
+    }
+    #div3 h1 {
+        font-size: 25px;
+        width: 320px;
+        padding-top: 30px;
+        margin-left: 0px;
+        color: white;
+    }
+    #img2 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 105px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div6{
+        height: 1375px;
+    }
+    #div61 {
+        text-align: center;
+        position: relative;
+        top: 120px;
+        left: 0px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #div62 {
+        text-align: center;
+        position: relative;
+        top: 250px;
+        left: 15px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img3 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 235px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #img4 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: 325px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div63 {
+        text-align: center;
+        position: relative;
+        top: 335px;
+        left: 10px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #div17 h2 {
+        color: white;
+        width: 340px;
+        position: relative;
+        top: 30px;
+        left: 0px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #div17 {
+        height: 460px;
+        background-color: white;
+        margin-top: 0px;
+        background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+        background-size: 100% 100%;
+    }
+    #div171 {
+        width: 85%;
+        position: relative;
+        left: 20px;
+        top: 70px;
+    }
+
+    #div20 {
+        width: 90%;
+        margin-top: 90px;
+        text-align: center;
+        height: 670px;
+        background-color: white;
+    }
+    #div20 button {
+        position: relative;
+        top: 230px;
+    }
+
+    #div1011 {
+        position: relative;
+        left: 100px;
+        top: 30px;
+        width: 120px;
+        height: 20px;
+        background-image: url(brandmark-design-5-copy-1.png);
+        background-size: 100% 100%;
+    }
+    #div1000 {
+        background-color: #0e1010d7;
+        height: 450px;
+        width: 100%;
+        margin-top: 50px;
+    }
+    #div1012 {
+        position: relative;
+        left: 0px;
+        top: 70px;
+        width: 350px;
+        height: 145px;
+        color: white;
+    }
+    #ul1000 {
+        width: 190px;
+        position: relative;
+        left: 45px;
+        top: 90px;
+    }
+    #ul1000 li {
+        list-style-type: none;
+        font-size: 20px;
+        
+        
+    }
+}
+
+
+
+
+
+@media screen and (min-width:767px) and (max-width:1023px) {
+
+    #nav1{
+        display: none;
+    }
+    
+    #ul1{
+        width: 200px;
+        background-color: black;
+        margin-left: 300px;
+    }
+    #ul1 li a{
+        text-align: center;
+         color: white;
+    }
+   
+    #servicelink1{
+        position: relative;
+        left: 0px;
+    }
+    #servicemenu{
+        position: relative;
+        
+        left: -50px;
+    }
+    #ul1 button{
+        position: relative;
+        left: 25px;
+        top: -20px;
+        font-size: 12px;
+        
+        width: 100px;
+    }
+    #ulli25{
+        position: relative;
+        top: -40px;
+    }
+    #img1{
+        position: relative;
+        left: 0px; 
+    }
+    #div3 {
+        height: 210px;
+        background-image: url(537582.jpg);
+        background-size: 100% 100%;
+    }
+
+    #ul2{
+        width: 250px;
+        margin-left: -30px;
+    }
+    #ul2 li{
+        color: rgb(9, 9, 9);
+        background-color: white;
+       
+    }
+    #ul2 li a{
+         color: black;
+    }
+
+    #div6 {
+        height: 930px;
+        background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+        background-size: 100% 100%;
+    }
+    #img2 {
+        width: 330px;
+        position: relative;
+        left: 15px;
+        top: 80px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div61 {
+        position: relative;
+        top: 95px;
+        left: 30px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img3 {
+        width: 330px;
+        position: relative;
+        left: 420px;
+        top: -240px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div62 {
+        position: relative;
+        top: -220px;
+        left: 450px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+    #img4 {
+        width: 330px;
+        position: relative;
+        left: 10px;
+        top: -115px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+    #div63 {
+        text-align: center;
+        position: relative;
+        top: -85px;
+        left: 10px;
+        width: 330px;
+        height: 150px;
+        color: white;
+    }
+
+    #div17 h2 {
+        color: white;
+        width: 450px;
+        position: relative;
+        top: 15px;
+        left: 150px;
+    }
+
+    #div17 {
+        height: 450px;
+        background-color: antiquewhite;
+        margin-top: 0px;
+        background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+        background-size: 100% 100%;
+    }
+    #div171 {
+        width: 35%;
+        position: relative;
+        left: 190px;
+        top: 40px;
+    }
+
+    #div20 {
+        margin-top: 50px;
+        text-align: center;
+        height: 650px;
+        background-color: white;
+    }
+
+    #div1012 {
+        position: relative;
+        left: 150px;
+        top: 70px;
+        width: 350px;
+        height: 120px;
+        color: white;
+    }
+
+    #ul1000 {
+        width: 200px;
+        position: relative;
+        left: 525px;
+        top: -100px;
+    }
+
+    #ul1000 li {
+        list-style-type: none;
+        font-size: 20px;
+    }
+    
+}
